@@ -282,7 +282,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 .hero__bg {
   position: absolute;
   inset: 0;
-  background-image: url("assets/hero.png");
+  background-image: url("assets/hero.webp");
   background-size: cover;
   background-position: center 42%;
 }
